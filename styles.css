@@ -1,0 +1,7 @@
+/* Fixing the globe to the top left corner. */
+
+#globe {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
